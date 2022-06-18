@@ -5,3 +5,6 @@
 
 ### Recycler y ViewPager de la categorias de los platos, items de cada plato
 [![Panta-Food2.png](https://i.postimg.cc/k5BnkVFv/Panta-Food2.png)](https://postimg.cc/p9MbjLSm)
+
+### Detalle de cada plato, valoracion, especificacion del pedido y comentarios del cliente
+[![Panta-Food3.png](https://i.postimg.cc/BbWH8fQR/Panta-Food3.png)](https://postimg.cc/tZ5Yff6z)
